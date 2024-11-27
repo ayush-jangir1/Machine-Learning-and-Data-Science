@@ -1,5 +1,5 @@
 **Machine Learning with Colab Notebooks**
-Welcome to the Machine Learning with Colab Notebooks repository! This collection of notebooks is curated to guide learners and practitioners through various machine learning concepts and statistical techniques, implemented and explained step by step using Python on Google Colab.
+Welcome to the Machine Learning with Colab Notebooks repository! This collection of notebooks of various machine learning concepts and statistical techniques, implemented and explained step by step using Python on Google Colab.
 
 📁 Repository Contents
 1. ARIMA Analysis
@@ -34,6 +34,4 @@ Notebook: kmean_iris.ipynb
 Description: Clustering of the Iris dataset into distinct groups using the K-Means algorithm.
 11. Linear Regression without Libraries
 Notebook: linear-regression-without-using-libraries.ipynb
-Description: Step-by-step implementation of linear regression from scratch without using external libraries.
-and many more incoming.......
-PS. - some of them are my collge assignments too.
+
