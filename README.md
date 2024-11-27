@@ -35,3 +35,5 @@ Description: Clustering of the Iris dataset into distinct groups using the K-Mea
 11. Linear Regression without Libraries
 Notebook: linear-regression-without-using-libraries.ipynb
 Description: Step-by-step implementation of linear regression from scratch without using external libraries.
+and many more incoming.......
+PS. - some of them are my collge assignments too.
